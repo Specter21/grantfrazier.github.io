@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Grant Frazier School Work
 
-You can use the [editor on GitHub](https://github.com/Specter21/grantfrazier.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is a collection of school projects that I have completed and submitted for assignment grades.
 
 ### Markdown
 
